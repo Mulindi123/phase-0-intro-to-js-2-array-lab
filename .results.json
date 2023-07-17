@@ -5,9 +5,9 @@
     "passes": 9,
     "pending": 0,
     "failures": 0,
-    "start": "2023-07-13T12:50:23.998Z",
-    "end": "2023-07-13T12:50:24.776Z",
-    "duration": 778
+    "start": "2023-07-17T14:10:08.671Z",
+    "end": "2023-07-17T14:10:09.459Z",
+    "duration": 788
   },
   "tests": [
     {
@@ -55,7 +55,7 @@
     {
       "title": "prepends a cat to the cats array and returns a new array, leaving the cats array unchanged",
       "fullTitle": "index.js Array functions prependCat(name) prepends a cat to the cats array and returns a new array, leaving the cats array unchanged",
-      "duration": 1,
+      "duration": 12,
       "currentRetry": 0,
       "err": {}
     },
@@ -122,7 +122,7 @@
     {
       "title": "prepends a cat to the cats array and returns a new array, leaving the cats array unchanged",
       "fullTitle": "index.js Array functions prependCat(name) prepends a cat to the cats array and returns a new array, leaving the cats array unchanged",
-      "duration": 1,
+      "duration": 12,
       "currentRetry": 0,
       "err": {}
     },
